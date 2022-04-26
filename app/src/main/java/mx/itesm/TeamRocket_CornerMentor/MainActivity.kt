@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         layout.orientation=LinearLayoutManager.VERTICAL
         adaptadorMaterias=AdaptadorMaterias(this,arrMaterias)
         binding.rvMaterias.adapter=adaptadorMaterias
-
+//aa
 
 
 
