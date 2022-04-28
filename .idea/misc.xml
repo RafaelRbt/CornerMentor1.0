@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/searchview_background.xml" value="0.2085" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/menu_app.xml" value="0.25" />
         <entry key="app/src/main/res/layout/renglon_materias.xml" value="0.22708333333333333" />
         <entry key="app/src/main/res/layout/searchview_background.xml" value="0.1" />
       </map>
